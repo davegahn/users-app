@@ -1,0 +1,15 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav {
+  color: #000;
+  list-style: decimal;
+  padding: 0;
+  margin: 0;
+  font-size: 4em;
+}
